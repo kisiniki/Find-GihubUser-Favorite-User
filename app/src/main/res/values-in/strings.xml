@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelpMe</string>
+    <string name="search">Cari</string>
+    <string name="username">username</string>
+    <string name="name">Nama</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>t
+    <string name="location">Lokasi : </string>
+    <string name="company">Perusahaan : </string>
+    <string name="repository">Repositori : </string>
+    <string name="language">Bahasa</string>
+</resources>

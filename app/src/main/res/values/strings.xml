@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelpMe</string>
+    <string name="search">Search</string>
+    <string name="username">username</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers </string>
+    <string name="following">Following </string>t
+    <string name="location">Location : </string>
+    <string name="company">Company : </string>
+    <string name="repository">Repository : </string>
+    <string name="language">Language</string>
+    <string name="favorite" translatable="false">favorite</string>
+    <string name="alarm" translatable="false">Alarm</string>
+</resources>
